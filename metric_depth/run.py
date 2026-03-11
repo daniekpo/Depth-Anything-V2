@@ -6,7 +6,7 @@ import numpy as np
 import os
 import torch
 
-from depth_anything_v2.dpt import DepthAnythingV2
+from depth_anything_v2.metric_depth import DepthAnythingV2
 
 
 if __name__ == '__main__':

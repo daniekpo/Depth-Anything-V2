@@ -28,7 +28,7 @@ import os
 from PIL import Image
 import torch
 
-from depth_anything_v2.dpt import DepthAnythingV2
+from depth_anything_v2.metric_depth import DepthAnythingV2
 
 
 def main():
